@@ -1,0 +1,7 @@
+version: 2.10
+type: N: GPS NAV DATA
+run_by_date: teqc  2002Mar14     GSI, JAPAN          20050404 06:03:21UTC
+ion_alpha: [1.118e-08, 1.49e-08, -5.96e-08, -5.96e-08]
+ion_beta: [88060.0, 16380.0, -196600.0, -131100.0]
+delta_utc: [-2.79396772385e-09, -5.3290705182e-15]
+leap_seconds: 13
